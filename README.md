@@ -5,7 +5,7 @@
 ## 🔧 Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-ник/GuardianBot.git
+git clone https://github.com/banhanman/GuardianBot
 ```
 2. Установите зависимости:
 ```bash
